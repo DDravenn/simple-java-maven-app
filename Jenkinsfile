@@ -1,3 +1,4 @@
+env.PATH = "${env.PATH}:C:/Program Files/Docker/Docker/resources/bin"
 pipeline {
     agent {
         docker {
